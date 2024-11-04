@@ -1,6 +1,6 @@
 # LLM-Manager
 
-This repository contains AI-functionality an LLM-Manager that can ```curate new songs recommendations to build playlists```, ```manage a social media account``` and ```summarize notifications```.
+This repository contains AI-functionality for an LLM-Manager that can ```curate new songs recommendations to build playlists```, ```manage a social media account``` and ```summarize notifications```.
 
 **Core LLM-logic defining an ```LLM_Agent``` and ```LLM_Recommender``` have been packaged together for easy-reuse in ```LLM_Engine```.
 More details can be found in the ```LLM_Engine README```**.
