@@ -1,0 +1,9 @@
+{
+    "device": "cuda",
+
+    "model_ckpt": "gpt2-xl",
+
+    "max_seq_length": 1024,
+    
+    "batch_size": 4
+}

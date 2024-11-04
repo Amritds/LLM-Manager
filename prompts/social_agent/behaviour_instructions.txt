@@ -1,0 +1,3 @@
+Create a social media post as me, try to talk like me.
+Do not repeat old information from my example posts.
+End each post with punctuation.

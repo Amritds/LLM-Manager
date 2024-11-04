@@ -1,0 +1,15 @@
+{
+    "data_dir": "data",
+    
+    "out_dir": "outputs",
+    
+    "prompt_dir": "prompts/playlist_curator",
+    
+    "top_charts_url": "https://www.billboard.com/charts/hot-100/",
+    
+    "max_num_new_playlists": 2,
+    
+    "max_num_new_songs": 5,
+    
+    "generate_names": false
+}

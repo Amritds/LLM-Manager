@@ -1,0 +1,12 @@
+{
+    "device": "cuda",
+
+    "model_ckpt": "microsoft/Phi-3-mini-4k-instruct",
+
+    "default_generation_args": {
+                                 "max_new_tokens": 500,
+                                 "return_full_text": false,
+                                 "temperature": 0.0,
+                                 "do_sample": false
+                               }
+}

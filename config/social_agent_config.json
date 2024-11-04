@@ -1,0 +1,15 @@
+{
+    "data_dir": "data",
+    
+    "out_dir": "outputs",
+    
+    "prompt_dir": "prompts/social_agent",
+    
+    "social_platform": "twitter",
+    
+    "data_sources": {
+                        "fitness":true,
+                        "purchase": true,
+                        "music": true
+                    }
+}

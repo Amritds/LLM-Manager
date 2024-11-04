@@ -1,0 +1,1 @@
+Here are today\'s notifications so far: '+'\n'+ <todays_notifications>.

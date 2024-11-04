@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+flash-attn==2.6.3
+json5==0.9.11
+requests==2.28.2
+torch==2.0.0+cu117
+transformers @ git+https://github.com/huggingface/transformers@3b44d2f0424ce46411fd0b6beb72aaafdf10c361
